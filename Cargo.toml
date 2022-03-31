@@ -1,0 +1,16 @@
+[package]
+name = "commit_info"
+version = "0.1.0"
+edition = "2021"
+authors = ["Anthony Mugendi <https://github.com/mugendi>"]
+repository = "https://github.com/mugendi/commit_info"
+license = "MIT"
+description = "Gather relevant commit and status information from git repos."
+
+
+[dependencies]
+anyhow = "1"
+cmd_lib = "1.3.0"
+chrono = "0.4.19"
+serde = {version = "1.0", features = ["derive"]}
+serde_json = {version = "1.0", features = ["raw_value"]}
