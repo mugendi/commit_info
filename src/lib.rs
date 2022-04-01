@@ -85,7 +85,7 @@ pub struct Info {
 
 impl Commit {
     /// To initialize a blank Commit Struct
-    fn new() -> Commit {
+    pub fn new() -> Commit {
         Commit {
             // branch: "".into(),
             commit_date: None,

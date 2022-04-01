@@ -1,6 +1,6 @@
 [package]
 name = "commit_info"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Anthony Mugendi <https://github.com/mugendi>"]
 repository = "https://github.com/mugendi/commit_info"

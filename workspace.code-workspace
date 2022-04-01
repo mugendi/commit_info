@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../project_language/project_language"
+		},
+		{
+			"path": "../project_language/project_language_test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
